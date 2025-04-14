@@ -1,2 +1,2 @@
 # Quantum_computing_tests
-Unit test.
+Ejemplos de programas/algoritmos en pruebas.
